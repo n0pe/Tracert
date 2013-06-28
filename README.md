@@ -4,6 +4,8 @@ Copyright (C) 2013  n0pe
 Trace is a simple traceroute tool written in python.
 Support several type of protocol (ICMP/UDP/TCP) and functions.
 
+Dependences: <strong>python-scapy</strong>.
+
 
 ### Options ###
 
