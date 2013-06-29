@@ -28,6 +28,6 @@ Options:
 
 ### Examples ###
 
-./trace.py -t 12.13.14.15
+./tracert.py -t 12.13.14.15
 <br>
-./trace.py -t 12.13.14.15 -p tcp -n 5 -f 16.17.18.19
+./tracert.py -t 12.13.14.15 -p tcp -n 5 -f 16.17.18.19
