@@ -1,7 +1,7 @@
-# Trace 1.0 - Traceroute tool
+# Tracert 1.0 - Traceroute tool
 Copyright (C) 2013  n0pe
 
-Trace is a simple traceroute tool written in python.
+Tracert is a simple traceroute tool written in python.
 Support several type of protocol (ICMP/UDP/TCP, default is ICMP) and functions.
 
 Dependences: <strong>python-scapy</strong>.
@@ -9,7 +9,7 @@ Dependences: <strong>python-scapy</strong>.
 
 ### Options ###
 
-Usage: trace.py [options]
+Usage: tracert.py [options]
 
 Options:
 
