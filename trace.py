@@ -103,7 +103,7 @@ def start_trace(target, proto, find, hops):
 						break
 					
 				else:
-					print "\nError while sending packet.\n"
+					print red("\nError while sending packet.\n")
 					break
 		except Timeout.Timeout:
 			print str(ttl_id) + ") \t" + "* * *\n"
